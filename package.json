@@ -1,10 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
 	"author": "Emeryx",
 	"description": "Here I study for the backend and APIs certification! Yayyyy :3 The live app is at https://boilerplate-npm-noge.onrender.com",
 	"keywords": ["freecodecamp", "Express", "MongoDB"],
+	"license": "LGPL-3.0-only",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
