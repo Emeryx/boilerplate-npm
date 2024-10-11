@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Emeryx",
 	"description": "Here I study for the backend and APIs certification! Yayyyy :3 The live app is at https://boilerplate-npm-noge.onrender.com",
+	"keywords": ["freecodecamp", "Express", "MongoDB"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
